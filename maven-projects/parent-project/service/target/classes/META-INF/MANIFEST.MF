@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: Bharathi
+Build-Jdk: 14
+Main-Class: com.sapient.training.ui.App
+Created-By: Maven Integration for Eclipse
+
